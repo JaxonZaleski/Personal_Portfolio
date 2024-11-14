@@ -1,0 +1,21 @@
+header {
+    font-size: 30px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.currentPage {
+    color: rgb(136, 134, 134);
+}
+.currentPage:hover {
+    cursor: default;
+}
+.seperation {
+    margin: 5pt;
+}
+button:hover {
+    cursor: pointer;
+    color: rgb(182, 182, 182);
+}

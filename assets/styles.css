@@ -7,6 +7,9 @@ header {
     padding-bottom: 5px;
 }
 a {
+    color: white;
+}
+nav a {
     text-decoration: none;
     color: black;
 }

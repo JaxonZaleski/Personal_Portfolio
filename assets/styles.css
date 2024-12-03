@@ -15,6 +15,7 @@ nav {
 }
 button {
     box-shadow: 1px 1px 1px;
+    flex: auto;
 }
 button:hover {
     cursor: pointer;
@@ -46,7 +47,6 @@ footer {
     margin: 5pt;
 }
 #sticky {
-    
     margin: 10px;
     padding-left: 5px;
     padding-top: 10px;

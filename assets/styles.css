@@ -42,7 +42,7 @@ button:hover {
     background-color: #a8a8a8;
 }
 body {
-    min-width: 500px;
+    min-width: 100px;
 }
 main {
     min-height: 550px;

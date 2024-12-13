@@ -41,9 +41,6 @@ button:hover {
     box-shadow: none;
     background-color: #a8a8a8;
 }
-body {
-    min-width: 500px;
-}
 main {
     min-height: 550px;
     max-height: none;
